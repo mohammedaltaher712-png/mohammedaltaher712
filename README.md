@@ -40,6 +40,18 @@
 - 🧩 I develop powerful REST APIs using Laravel  
 - 🌍 أحب بناء حلول تقنية تحل مشاكل حقيقية  
 - 🌍 I love building real-world solutions  
+- 🧠 عملت على العديد من المشاريع منها:  
+  - متجر إلكتروني  
+  - تطبيق عيادة للحجوزات  
+  - تطبيق توصيل  
+  - لوحة تحكم  
+  - مواقع ويب  
+- 🧠 I've built various real-world projects including:  
+  - E-commerce app  
+  - Clinic booking app  
+  - Delivery app  
+  - Admin dashboards  
+  - Professional websites  
 - 📚 أجيد HTML - CSS - JS - Bootstrap - jQuery  
 - 📚 Skilled in HTML, CSS, JS, Bootstrap, jQuery  
 - 📈 أطمح للمشاركة في مشاريع مفتوحة المصدر  
@@ -54,4 +66,4 @@
 📞 الهاتف | Phone: **+967 775 199 964**
 
 
- 
+  
