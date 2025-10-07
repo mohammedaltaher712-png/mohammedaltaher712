@@ -53,7 +53,5 @@
 [![Gmail](https://img.shields.io/badge/-mohammedaltaher712@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedaltaher712@gmail.com)  
 📞 الهاتف | Phone: **+967 775 199 964**
 
----
 
-> ⭐ إذا أعجبك عملي، لا تنسَ دعم المشروع بزر النجمة  
-> ⭐ If you like my work, don't forget to give it a star!
+ 
