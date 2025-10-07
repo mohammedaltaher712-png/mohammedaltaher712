@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/code_animation.gif" width="400" alt="Coding Animation"/>
+</p>
+
 <h2 align="left">
   مرحبًا! 👋<br>
   أنا <strong>محمد الطاهر</strong> | Hi, I'm <strong>Mohammed Al-Taher</strong>
