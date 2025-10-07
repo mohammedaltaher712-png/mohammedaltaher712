@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/code_animation.gif" width="400" alt="Coding Animation"/>
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
 <h2 align="left">
