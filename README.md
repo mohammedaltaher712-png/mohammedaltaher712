@@ -44,21 +44,22 @@
 - 🧩 I develop powerful REST APIs using Laravel  
 - 🌍 أحب بناء حلول تقنية تحل مشاكل حقيقية  
 - 🌍 I love building real-world solutions  
-- 🧠 عملت على العديد من المشاريع منها:  
-  - متجر إلكتروني مع لوحة تحكم للمسؤول ويب 
-  - تطبيق عيادة للحجوزات مع لوحة تحكم للمسؤول ويب 
-  - تطبيق توصيل   
-  - مواقع ويب  
-- 🧠 I've built various real-world projects including:  
-  - E-commerce app  
-  - Clinic booking app  
-  - Delivery app  
-  - Admin dashboards  
-  - Professional websites  
 - 📚 أجيد HTML - CSS - JS - Bootstrap - jQuery  
 - 📚 Skilled in HTML, CSS, JS, Bootstrap, jQuery  
 - 📈 أطمح للمشاركة في مشاريع مفتوحة المصدر  
 - 📈 Aiming to contribute to open-source projects
+
+---
+
+## 🚀 المشاريع | Projects
+
+### 🛍 Delivery App – Flutter
+تطبيق لإدارة وتسليم الطلبات مع واجهة مستخدم جذابة وميزات تتبع الطلبات والإشعارات.  
+[رابط المشروع على GitHub](https://github.com/mohammedaltaher712-png/delivery-app)
+
+### ⚙️ Laravel Delivery Backend
+نظام Backend متكامل لتطبيق التوصيل، يشمل إدارة الطلبات، التصنيفات، المستخدمين، والإشعارات.  
+[رابط المشروع على GitHub](https://github.com/mohammedaltaher712-png/Laravel-Delivery-Backend)
 
 ---
 
@@ -67,6 +68,3 @@
 [![GitHub](https://img.shields.io/badge/-mohammedaltaher712-black?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammedaltaher712)  
 [![Gmail](https://img.shields.io/badge/-mohammedaltaher712@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedaltaher712@gmail.com)  
 📞 الهاتف | Phone: **+967 775 199 964**
-
-
-  
