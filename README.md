@@ -66,15 +66,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
-</p>
 
 ---
 
@@ -99,5 +91,5 @@
 <p align="center">
   <a href="mailto:your-email@example.com">📧 Email</a> •
   <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://linkedin.com">LinkedIn</a>
+  
 </p>
