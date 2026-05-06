@@ -100,7 +100,7 @@
 ### 📫 تواصل معي
 
 <p align="center">
-  <a href="mailto:your-email@example.com">📧 Email</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="mailto:mohammedaltaher712@gmail.com">📧 Email</a> •
+  <a href="https://github.com/mohammedaltaher712-png">GitHub</a> •
   
 </p>
