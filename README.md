@@ -65,5 +65,5 @@
 <p align="center">
   <a href="mailto:your-email@example.com">📧 Email</a> •
   <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://linkedin.com">LinkedIn</a>
+  
 </p>
