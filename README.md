@@ -1,18 +1,103 @@
+<p align="center"> 
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="300"> 
+</p>
+
+<h1 align="center">مرحبًا! 👋 أنا محمد الطاهر | Hi, I'm Mohammed Al-Taher</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</p>
+
+<p align="center">
+  💻 Flutter Developer | Laravel Backend Developer | React Frontend Developer  
+</p>
+
+<p align="center">
+  🧠 أبني تطبيقات موبايل وويب متكاملة  
+  🚀 أركز على الكود النظيف وتطوير مشاريع قابلة للتوسع
+</p>
+
+---
+
+### 🛠️ المهارات
+
+#### 📱 Mobile Development
+<p align="center">
+  <a href="https://flutter.dev">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+  </a>
+  <a href="https://dart.dev">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
+  </a>
+</p>
+
+---
+
 #### 🌐 Frontend Development
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  </a>
+  <a href="https://react.dev">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  </a>
+</p>
 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+---
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+#### ⚙️ Backend Development
+<p align="center">
+  <a href="https://laravel.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/>
   </a>
+  <a href="https://www.php.net">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  </a>
+  <a href="https://www.mysql.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  </a>
+</p>
 
-  <a href="https://react.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 🚀 Projects
+
+- 📱 **Food Delivery App**  
+  Flutter + Laravel API  
+  نظام توصيل طعام كامل (مستخدم + مطاعم + طلبات)
+
+- 🛒 **E-commerce App**  
+  Flutter + Backend API  
+  متجر إلكتروني مع سلة مشتريات وإدارة منتجات
+
+- 🌐 **Admin Dashboard**  
+  React + Laravel  
+  لوحة تحكم لإدارة المستخدمين والطلبات والإحصائيات
+
+---
+
+### 📫 تواصل معي
+
+<p align="center">
+  <a href="mailto:your-email@example.com">📧 Email</a> •
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="https://linkedin.com">LinkedIn</a>
 </p>
