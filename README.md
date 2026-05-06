@@ -47,7 +47,18 @@
   <a href="https://react.dev">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   </a>
+
+  <!-- TailwindCSS -->
+  <a href="https://tailwindcss.com/">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  </a>
+
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+  </a>
 </p>
+
 
 ---
 
