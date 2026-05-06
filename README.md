@@ -1,64 +1,64 @@
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" />
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
 <h2 align="center">
-  👋 مرحبًا، أنا <strong>محمد الطاهر</strong> | Mohammed Al-Taher
+  👋 مرحبًا! أنا <strong>محمد الطاهر</strong> | Hi, I'm <strong>Mohammed Al-Taher</strong>
 </h2>
 
 <p align="center">
-  Flutter Developer • Laravel Backend Developer • React Frontend Developer
+  Flutter Developer | Laravel Backend Developer | React Frontend Developer
+</p>
+
+<p align="center">
+  🧠 أبني تطبيقات موبايل وويب متكاملة  
+  🚀 أركز على الكود النظيف وتطوير مشاريع حقيقية قابلة للتوسع
 </p>
 
 ---
 
-## 👨‍💻 عني
+## 🛠️ المهارات
 
-- 💻 مطوّر تطبيقات موبايل باستخدام Flutter
-- 🌐 مطوّر واجهات ويب باستخدام React
-- ⚙️ مطوّر Back-end باستخدام Laravel
-- 🧠 مهتم ببناء أنظمة كاملة (Full Stack Apps)
-- 🚀 أركز على كتابة كود نظيف وقابل للتطوير
-
----
-
-## 🛠️ التقنيات التي أستخدمها
-
-### 📱 Mobile
-<p align="left">
+<p align="center">
   <a href="https://flutter.dev">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/>
   </a>
-</p>
 
-### 🌐 Frontend Web
-<p align="left">
   <a href="https://react.dev">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="45"/>
   </a>
-</p>
 
-### ⚙️ Backend
-<p align="left">
   <a href="https://laravel.com">
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="45"/>
   </a>
 </p>
 
 ---
 
-## 📌 ملاحظة مهمة (اقرأها بصراحة)
+## 📊 GitHub Stats
 
-لو هدفك وظيفة أو شغل حقيقي:
-- لا تعرض نفسك كأنك “تعرف كل شيء”
-- خلي كل تقنية لها دور واضح
-- ركّز على مشاريع قوية بدل كثرة التقنيات
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
 
-الناس ما تهتم أنك تعرف Flutter + React + Laravel  
-الناس تهتم: هل تقدر تبني مشروع كامل يشتغل صح أو لا.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 🚀 الهدف
+## 🚀 المشاريع
 
-بناء تطبيقات حقيقية، قابلة للتطوير، وتشتغل في السوق مش مجرد مشاريع تدريب.
+- 📱 Food Delivery App (Flutter + Laravel API)  
+- 🛒 E-commerce App (Flutter + Backend API)  
+- 🌐 Admin Dashboard (React + Laravel)  
+
+---
+
+## 📫 تواصل معي
+
+<p align="center">
+  <a href="mailto:your-email@example.com">📧 Email</a> •
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="https://linkedin.com">LinkedIn</a>
+</p>
